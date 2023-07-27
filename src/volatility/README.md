@@ -9,7 +9,7 @@ pageview: true
 
 - [介绍](js.md)
 
-- [安装](isntall.md)
+- [安装](install.md)
 
 - [基本用法](base.md)
 
